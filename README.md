@@ -28,6 +28,6 @@ All the waves will be displayed after clicking on the DAC (Digital Analog Conver
 
    **Software:**
 
-    •	EdSim51 Simulator
+   • EdSim51 Simulator
   
-    •	Windows 7 or above
+   • Windows 7 or above
